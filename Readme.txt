@@ -7,7 +7,7 @@ SS: Sentence.
 DWL: Average word length.
 DSL: Average proposition length.
 ADD: Average Dependency Distance.
-#P: Amount of narratemes in a sentence.
+#P: Amount of narremes in a sentence.
 I: ADD * #P.
 O: I-#W Ratio.
 F: ADD + #P.
