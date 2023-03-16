@@ -1,5 +1,8 @@
+# Self-similarity in texts
+## Fabulous contributions to computational narratology
 
-
+Most of the pictures uploaded to this repository display graphically the related vector as a .txt file format.
+Therein, each self-information value equals to _I_ (in the following the complete list of computed values):
 
 SS: Sentence.
 #S: Amount of propositions in a sentence.
@@ -7,8 +10,14 @@ SS: Sentence.
 DWL: Average word length.
 DSL: Average proposition length.
 ADD: Average Dependency Distance.
-#P: Amount of narremes in a sentence.
+#P: Amount of narremes in a single sentence.
 I: ADD * #P.
 O: I-#W Ratio.
 F: ADD + #P.
 A: F-#W Ratio.
+
+
+Among all values retrieved over a small manually-annotated corpus of german fairy-tales, the self-similarity of 
+every vector is assessed by computing the Hurst Exponent.
+
+[https://github.com/Glottocrisio/GrimmHurst](https://github.com/Glottocrisio/GrimmHurst/blob/main/SSAbiene-eps-converted-to.pdf)
