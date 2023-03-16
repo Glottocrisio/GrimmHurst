@@ -20,5 +20,5 @@ A: F-#W Ratio.
 Among all values retrieved over a small manually-annotated corpus of german fairy-tales, the self-similarity of 
 every vector is assessed by computing the Hurst Exponent.
 
-(https://github.com/Glottocrisio/GrimmHurst/blob/main/bienek%C3%B6niginhurst.png)
+![po](https://github.com/Glottocrisio/GrimmHurst/blob/main/bienek%C3%B6niginhurst.png)
 
