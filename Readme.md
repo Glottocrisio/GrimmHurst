@@ -24,3 +24,6 @@ Here for instance the comparison of all Hurst parameters for the vectors related
 
 ![pop](https://github.com/Glottocrisio/GrimmHurst/blob/main/bienek%C3%B6niginhurst.png)
 
+This table shows the series of the Propp narremes (german notation) along with the normalized values of the magic squares of sun:
+
+![pop](https://github.com/Glottocrisio/GrimmHurst/blob/main/proppfunadjustedvalues.png)
